@@ -1,4 +1,6 @@
 ﻿using System;
+using JWTAuthentication.Authentication;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
@@ -80,4 +82,21 @@ namespace API_Project2.Models
 
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
     }
+
+    namespace JWTAuthentication.Authentication
+    {
+        public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
+        {
+            public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+            {
+
+            }
+            protected override void OnModelCreating(ModelBuilder builder)
+            {
+                base.OnModelCreating(builder);
+            }
+        }
+    }
+
+
 }

@@ -135,3 +135,9 @@ C:\Users\OEM\source\repos\API_Project2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNe
 C:\Users\OEM\source\repos\API_Project2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\OEM\source\repos\API_Project2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\OEM\source\repos\API_Project2\obj\Debug\netcoreapp3.1\API_Project2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OEM\source\repos\API_Project2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\OEM\source\repos\API_Project2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\OEM\source\repos\API_Project2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\OEM\source\repos\API_Project2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\OEM\source\repos\API_Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\OEM\source\repos\API_Project2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
