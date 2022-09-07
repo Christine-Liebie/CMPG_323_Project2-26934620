@@ -1,12 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace API_Project2.Authentication
-{
-    public class RegisterModel
-    {
-    }
-}
-
 namespace JWTAuthentication.Authentication
 {
     public class RegisterModel

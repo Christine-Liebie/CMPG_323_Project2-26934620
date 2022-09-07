@@ -1,11 +1,4 @@
-﻿namespace API_Project2.Authentication
-{
-    public class Response
-    {
-    }
-}
-
-namespace JWTAuthentication.Authentication
+﻿namespace JWTAuthentication.Authentication
 {
     public class Response
     {

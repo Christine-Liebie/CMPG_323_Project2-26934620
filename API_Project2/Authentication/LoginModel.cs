@@ -1,11 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace API_Project2.Authentication
-{
-    public class LoginModel
-    {
-    }
-}
 
 namespace JWTAuthentication.Authentication
 {
