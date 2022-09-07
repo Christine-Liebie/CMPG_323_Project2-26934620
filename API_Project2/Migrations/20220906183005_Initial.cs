@@ -7,7 +7,7 @@ namespace API_Project2.Migrations
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-           /* migrationBuilder.CreateTable(
+           migrationBuilder.CreateTable(
                 name: "Category",
                 columns: table => new
                 {
@@ -50,7 +50,7 @@ namespace API_Project2.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Zone", x => x.ZoneID);
-                }); */
+                }); 
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
