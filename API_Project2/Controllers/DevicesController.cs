@@ -123,5 +123,21 @@ namespace API_Project2.Controllers
         {
             return _context.Device.Any(e => e.DeviceId == id);
         }
+
+        [HttpGet("Category_ID")]
+        public async Task<ActionResult<IEnumerable<Device>>> GetCat(Guid id)
+        {
+            var categor = await _context.Device.Where(D => D.CategoryId == id).ToListAsync();
+
+            return categor;
+        }
+
+        [HttpGet("Zone_ID")]
+        public async Task<ActionResult<IEnumerable<Device>>> GetZone(Guid id)
+        {
+            var categor = await _context.Device.Where(D => D.ZoneId == id).ToListAsync();
+
+            return categor;
+        }
     }
 }
