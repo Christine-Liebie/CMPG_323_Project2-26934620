@@ -4,6 +4,10 @@ C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\apps
 C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\API_Project2.dll
 C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\API_Project2.runtimeconfig.json
 C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\API_Project2.pdb
+C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Bcl.HashCode.dll
@@ -24,6 +28,8 @@ C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Micr
 C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Identity.Core.dll
+C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.dll
 C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\OEM\source\repos\API_Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Options.dll
